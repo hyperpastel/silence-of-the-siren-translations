@@ -131,9 +131,9 @@
             <!-- Status effects -->
             <!-- TODO percentage of damage: should these mention "per turn" ? -->
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_POISON_DAMAGE</LocID>                     <Text>Vergiftet</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_POISON_DAMAGE_DESCRIPTION</LocID>         <Text>Die Einheit verliert 2% Gesundheit und ihr SDN wird um 20% reduziert.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_POISON_DAMAGE_DESCRIPTION</LocID>         <Text>Die Einheit verliert 2% Gesundheit und ihr SCHADEN wird um 20% reduziert.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURNING_DAMAGE</LocID>                    <Text>Brennt</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURNING_DAMAGE_DESCRIPTION</LocID>        <Text>Die Einheit verliert 4% Gesundheit und hat eine Chance von 30%, ihre Züge zu überspringen.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURNING_DAMAGE_DESCRIPTION</LocID>        <Text>Die Einheit verliert 4% Gesundheit und hat 30% Chance, ihren Zug zu überspringen.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SHOCK_DAMAGE</LocID>                      <Text>Geschockt</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SHOCK_DAMAGE_DESCRIPTION</LocID>          <Text>Die Einheit verliert 5% Gesundheit und ihre INITIATIVE wird um 30% reduziert.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BLEEDING_DAMAGE</LocID>                   <Text>Blutet</Text></GameDBLocalizedString>
@@ -144,7 +144,7 @@
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_DAZE</LocID>                              <Text>Betäubt</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_DAZE_DESCRIPTION</LocID>                  <Text>Die Einheit kann nicht kontern.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_UNLIMITED_COUNTER</LocID>                 <Text>Unbegrenzter Zähler</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_UNLIMITED_COUNTER</LocID>                 <Text>Unbegrenzte Konterangriffe</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CHARGE</LocID>                            <Text>Ansturm</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURY</LocID>                              <Text>Vergraben</Text></GameDBLocalizedString>
 
@@ -156,7 +156,7 @@
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_RANGED_COOLDOWN_DESCRIPTION</LocID>       <Text>Schießt nur einmal alle zwei Züge.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_MORALE_BOOST</LocID>                      <Text>Moralschub</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_MORALE_BOOST_DESCRIPTION</LocID>          <Text>Höhere Chance auf einen Extra-Zug.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_LIGHTEN_ARMOR</LocID>                     <Text>Bewegung+</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_LIGHTEN_ARMOR</LocID>                     <Text>Erhöhte Bewegung</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_LIGHTEN_ARMOR_DESCRIPTION</LocID>         <Text>Erhöht die Bewegungspunkte.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BERSERKER</LocID>                         <Text>Berserker</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BERSERKER_DESCRIPTION</LocID>             <Text>Greift die nächste Einheit zweimal an.</Text></GameDBLocalizedString> <!-- or also walls? -->
@@ -166,14 +166,14 @@
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_FIELD_PROMOTION_DESCRIPTION</LocID>       <Text>Die Einheit wird vorübergehend befördert.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_WALKING_RATIONS</LocID>                   <Text>Gesundheitsraub</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_WALKING_RATIONS_DESCRIPTION</LocID>       <Text>Heilt die angreifende Einheit.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARTIFICIAL_MUSCLE_FIBERS</LocID>          <Text>Schaden+</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARTIFICIAL_MUSCLE_FIBERS</LocID>          <Text>Erhöhter Schaden</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARTIFICIAL_MUSCLE_FIBERS_DESCRIPTION</LocID> <Text>Treffer/Schüsse der Einheit verursachen mehr Schaden.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SLOW</LocID>                              <Text>Bewegung-</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SLOW</LocID>                              <Text>Reduzierte Bewegung</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SLOW_DESCRIPTION</LocID>                  <Text>Reduziert die Bewegungspunkte.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARMOR_INCRUSTATION</LocID>                <Text>Verteidigung+</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARMOR_INCRUSTATION</LocID>                <Text>Erhöhte Verteidigung</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARMOR_INCRUSTATION_DESCRIPTION</LocID>    <Text>Erhöht die Verteidigung.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CLONE</LocID>                             <Text>Klon</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CLONE_DESCRIPTION</LocID>                 <Text>Dies ist eine geklonte Einheit, die nur über 1 LP verfügt.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CLONE_DESCRIPTION</LocID>                 <Text>Dies ist eine geklonte Einheit, die nur 1 LP besitzt.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BLOCK_SPECIAL</LocID>                     <Text>Spezialfähigkeit blockiert</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BLOCK_SPECIAL_DESCRIPTION</LocID>         <Text>Diese Einheit kann ihre Spezialfähigkeit nicht einsetzen.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_LOOPHOLE</LocID>                          <Text>Energieschild</Text></GameDBLocalizedString>
@@ -197,9 +197,9 @@
             <GameDBLocalizedString>         <LocID>SPECIAL_ON_COOLDOWN</LocID>                                   <Text>Aktuell auf Abklingzeit:</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SPECIAL_ON_END_OF_TURN</LocID>                                <Text>Automatisch nach des Zugs dieser Einheit wirken (nicht nach der Wartezeit):</Text></GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>PERKS</LocID>                                                 <Text>Vorteile</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUFFS</LocID>                                                 <Text>Stärkungen</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DEBUFFS</LocID>                                               <Text>Schwächungen</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PERKS</LocID>                                                 <Text>Vorteile</Text></GameDBLocalizedString> <!-- Wir verwenden auch schon Skill als Wort, in diesem Falle sollten Buff und Debuff auch vertretbar sein-->
+            <GameDBLocalizedString>         <LocID>BUFFS</LocID>                                                 <Text>Buffs</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DEBUFFS</LocID>                                               <Text>Debuffs</Text></GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>RIGHT_CLICK_FOR_UNIT_INFO</LocID>                             <Text>Rechtsklick für Einheiten-Details.</Text></GameDBLocalizedString>
 
@@ -239,7 +239,7 @@
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_CAN_RETALIATE</LocID>                            <Text>Diese Einheit kann in dieser Runde noch zurückschlagen.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_CAN_RETALIATE_MORE</LocID>                       <Text>Diese Einheit kann in dieser Runde noch (mehrmals) zurückschlagen.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>RETRY_BATTLE</LocID>                                          <Text>Schlacht erneut austragen!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RETRY_BATTLE</LocID>                                          <Text>Gefecht wiederholen!</Text></GameDBLocalizedString>
             
         </LocalizedStrings>
     </GameDBStringTable>

@@ -86,19 +86,19 @@
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_4_UPG</LocID>                     <Text>Turm des Glaubens</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_4_UPG_DESCRIPTION</LocID>         <Text>Erlaubt die Rekrutierung von Ritter-Champions.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_5</LocID>                         <Text>Fensterloses Fort</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_5_DESCRIPTION</LocID>             <Text>Erlaubt die Rekrutierung von Zieregals.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_5_DESCRIPTION</LocID>             <Text>Erlaubt die Rekrutierung von Zieregalen.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_5_UPG</LocID>                     <Text>Fensterlose Festung</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_5_UPG_DESCRIPTION</LocID>         <Text>Erlaubt die Rekrutierung von Hohen Zieregals.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_5_UPG_DESCRIPTION</LocID>         <Text>Erlaubt die Rekrutierung von Hohen Zieregalen.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_6</LocID>                         <Text>Feuerspeier-Labyrinth</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_6_DESCRIPTION</LocID>             <Text>Erlaubt die Rekrutierung von Feuerspeiern.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_6_UPG</LocID>                     <Text>Feuerspeier-Verließ</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_6_UPG_DESCRIPTION</LocID>         <Text>Erlaubt die Rekrutierung von Feuerspeier-Fanatikern.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_6_UPG_DESCRIPTION</LocID>         <Text>Erlaubt die Rekrutierung von fanatischen Feuerspeiern.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_7</LocID>                         <Text>Portal</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_7_DESCRIPTION</LocID>             <Text>Erlaubt die Rekrutierung von Acherons.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_7_UPG</LocID>                     <Text>Portal der Aufgestiegenen</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_SPAWNER_7_UPG_DESCRIPTION</LocID>         <Text>Erlaubt die Rekrutierung von Gesegneten Acherons.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_CREATURE_PRODUCTION_UPGRADE_1</LocID>     <Text>Statue der Allmutter</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_CREATURE_PRODUCTION_UPGRADE_1_DESCRIPTION</LocID>  <Text>Generiere 8 zusätzliche Tempelwächter.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_CREATURE_PRODUCTION_UPGRADE_1_DESCRIPTION</LocID>  <Text>Generiert 8 zusätzliche Tempelwächter.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>CRUSADERS_BASE_NAME_01</LocID>                               <Text>Heilige Bögen</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CRUSADERS_BASE_NAME_02</LocID>                               <Text>Leerenherz</Text></GameDBLocalizedString>
@@ -109,7 +109,7 @@
 
             <!--LORE -->
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_BASE_CORE_LORE</LocID>                    <Text>Nur eine kleine Insel des Lichts durchbricht den samtigen Schatten des Kirchenschiffs. Auf ihr steht eine hohe, schlanke Statue der Göttin. Der Körper aus Gussstahl reflektiert einen einzelnen Lichtstrahl auf die kleine Gruppe von Gläubigen darunter.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_ECONOMY_UPGRADE1_LORE</LocID>             <Text>Überraschenderweise wenden die Gläubigen der Statue der Allmutter während des Großteils der Zeremonie den Rücken zu. Das ist kein Akt des Trotzes, sondern eine Botschaft. Sie ist nicht für sie da, sondern sie sind hier, um SIE zu beschützen. Heute sind viele gekommen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_ECONOMY_UPGRADE1_LORE</LocID>             <Text>Überraschenderweise wenden die Gläubigen der Statue der Allmutter während des Großteils der Zeremonie den Rücken zu. Das ist kein Akt des Trotzes, sondern eine Botschaft. Sie ist nicht für sie da, sondern sie sind hier, um SIE zu beschützen. Viele sind heute gekommen.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_ECONOMY_UPGRADE2_LORE</LocID>             <Text>Weitere Pilger treffen ein und suchen Schutz in der Festung der Allmutter – nicht nur Roboter und Cyborgs, sondern auch organische Wesen. Die Kathedrale ist überfüllt – das helle Licht hat die Schatten wieder vertrieben. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_ECONOMY_UPGRADE_MAX_LORE</LocID>          <Text>Mit der Krone ist die Kathedrale zu einem Leuchtfeuer geworden, das eine Flut von Gläubigen anzieht. Dennoch wirkt die riesige Kathedrale winzig im Vergleich zur Luftspiegelung des Tempels der Großen Allmutter in der Tempelstadt, die in der Ferne zu sehen ist.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_REPLICATOR_LORE</LocID>                   <Text>Die Opfergaben haben inzwischen einen rein symbolischen Wert, aber auch jetzt noch wird ein Körperteil verlangt. Ein Stück Draht, ein paar Tropfen Batterieflüssigkeit oder ... Offensichtlich hat die Kirche die Idee von Anhängern aus Fleisch und Blut noch nicht ganz verdaut.</Text>  </GameDBLocalizedString>

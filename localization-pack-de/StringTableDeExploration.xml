@@ -47,9 +47,9 @@
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE_EMPTY</LocID>                      <Text></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE_EMPTY_TEXT</LocID>                 <Text>Diese Abbausonde hat noch keine Ressourcen gesammelt.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE</LocID>                         <Text></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_TEXT</LocID>                    <Text>Dies ist eine temporäre, von einem Spieler errichtete Konstruktion, in deinem Besitz. Du kannst sie zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_TEXT</LocID>                    <Text>Dies ist eine temporäre, von einem Spieler errichtete Konstruktion, die dir gehört. Du kannst sie zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY</LocID>                <Text></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY_TEXT</LocID>           <Text>Dies ist eine temporäre, von einem Spieler errichtete Konstruktion, in deinem Besitz. Du kannst sie zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY_TEXT</LocID>           <Text>Dies ist eine temporäre, von einem Spieler errichtete Konstruktion, die dir gehört. Du kannst sie zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_WITH_ARMY</LocID>                       <Text>Aufwertbare Konstruktion</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_LEARN_ABILITY</LocID>                                  <Text>Wissen wurde bereits heruntergeladen!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_LEARN_ABILITY_TEXT</LocID>                             <Text><![CDATA[Wähle eine Fähigkeit des <color=SOTS_COLOR_GOLD>{1}-Skills</color>, die du erlernen möchtest!]]></Text></GameDBLocalizedString>
@@ -203,12 +203,12 @@
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_SMUGGLERS_DEN_REWARD</LocID>                    <Text>Belohnung abholen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_SLAVE_CAMP_NEGOTIATE</LocID>                    <Text>Sklaven kaufen</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNDISCOVERED</LocID>                                          <Text>Unentdecktes Territorium</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNDISCOVERED</LocID>                                          <Text>Unentdecktes Gebiet</Text></GameDBLocalizedString>
             
             <!-- Status effects -->                                                                              
-            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MOVE_POINTS_REDUCTION</LocID>                   <Text><![CDATA[<color=SOTS_COLOR_RED>Bewegungspunkte-Reduktion</color>]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MOVE_POINTS_INCREASE</LocID>                    <Text><![CDATA[<color=SOTS_COLOR_LIGHT_GREEN>Bewegungspunkte-Erhöhung</color>]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_RUSH_ABILITY_MOVE_POINTS_INCREASE</LocID>       <Text><![CDATA[Beeilen-Fähigkeit 20%<color=SOTS_COLOR_MOVEMENT> Bewegungspunkte-Erhöhung</color>]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MOVE_POINTS_REDUCTION</LocID>                   <Text><![CDATA[<color=SOTS_COLOR_RED>Bewegungspunkt-Reduktion</color>]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MOVE_POINTS_INCREASE</LocID>                    <Text><![CDATA[<color=SOTS_COLOR_LIGHT_GREEN>Bewegungspunkt-Erhöhung</color>]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_RUSH_ABILITY_MOVE_POINTS_INCREASE</LocID>       <Text><![CDATA[Beeilen-Fähigkeit 20%<color=SOTS_COLOR_MOVEMENT> Bewegungspunkt-Erhöhung</color>]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_EAGLE_EYE_ABILITY_RANGE_INCREASE</LocID>        <Text>Verdoppelte Aufklärungsreichweite. (Adlerauge-Fähigkeit)</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_BARBARIAN_HORDE_2</LocID>                       <Text>„Stärkere“ Armee</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_EASY_PREY_2</LocID>                             <Text>„Schwächere“ Armee</Text></GameDBLocalizedString>
@@ -295,7 +295,7 @@
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_3</LocID>                          <Text>Kampfarena</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_VICTORY</LocID>                    <Text>Kampfarena</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_TEXT</LocID>                       <Text><![CDATA[Kämpfe drei Runden gegen zufällige Armeen. Belohnung für <color=SOTS_COLOR_GOLD>Runde 1</color>: <color=SOTS_COLOR_GOLD>Zufällige Ressource</color>. Belohnung für <color=SOTS_COLOR_GOLD>Runde 2</color>: <color=SOTS_COLOR_GOLD>25 Moralschub</color> (4 Phasen). Belohnung für <color=SOTS_COLOR_GOLD>Runde 3</color>: Zufälliges <color=SOTS_COLOR_GOLD>Attribut</color> permanent um 1 <color=SOTS_COLOR_GOLD>erhöht</color>.]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_VICTORY_TEXT</LocID>               <Text>Glückwunsch! Du hast alle drei Runden überstanden. Nimm am nächsten Zyklus teil und versuche, deinen Erfolg zu wiederholen.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_VICTORY_TEXT</LocID>               <Text>Glückwunsch! Du hast alle drei Runden überstanden. Komm nächsten Zyklus zurück und versuche, nochmal zu gewinnen.</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_TRAINING_GROUND</LocID>                         <Text>Ausbildungsgelände</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_TRAINING_GROUND_TEXT</LocID>                    <Text><![CDATA[Du kannst dich dazu entscheiden, gegen <color=SOTS_COLOR_GOLD>deine eigene Armee</color> (ohne Kommandant) oder eine <color=SOTS_COLOR_GOLD>zufällige Armee</color> zu kämpfen.]]></Text></GameDBLocalizedString>
@@ -324,7 +324,7 @@
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_UNITS_DESCRIPTION</LocID>                   <Text>Mehr Einheiten zur Rekrutierung in allen Basen!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_LESS_UNITS</LocID>                                <Text>Pandemie!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_LESS_UNITS_DESCRIPTION</LocID>                    <Text>Weniger Einheiten zur Rekrutierung in allen Basen!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION</LocID>                          <Text>Stellarer Höhepunkt!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION</LocID>                          <Text>Stellares Maximum!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION_DESCRIPTION</LocID>              <Text>Alle Basen und Konstruktionen produzieren mehr Ressourcen!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION</LocID>                        <Text>Stellares Minimum!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION_DESCRIPTION</LocID>            <Text>Alle Basen und Konstruktionen produzieren weniger Ressourcen!</Text></GameDBLocalizedString>

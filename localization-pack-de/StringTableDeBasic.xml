@@ -23,14 +23,14 @@
             <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_WIN_CAPTURE_BASE</LocID>                       <Text>Erobere eine Basis</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_WIN_CAPTURE_BASE_MESSAGE</LocID>               <Text>Die Basis wurde erobert</Text></GameDBLocalizedString>            
             <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_WIN_HOLD_BASE_FOR_N_ROUNDS</LocID>             <Text>Halte einen Basis für N Runden</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_WIN_HOLD_BASE_FOR_N_ROUNDS_MESSAGE</LocID>     <Text>Die Basis wurde eine bestimmte Zeit lang gehalten</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_WIN_HOLD_BASE_FOR_N_ROUNDS_MESSAGE</LocID>     <Text>Die Basis wurde für die bestimmte Zeit gehalten</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_LOST_PLAYER_ELIMINATED</LocID>                 <Text>Verliere alle Kommandanten und Basen</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_LOST_PLAYER_ELIMINATED_MESSAGE</LocID>         <Text>Alle Kommandanten und Basen sind verloren gegangen. Es gibt keine Hoffnung mehr.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_LOST_OUT_OF_TIME</LocID>                       <Text>Lass deine Zeit ablaufen</Text></GameDBLocalizedString>                      
-            <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_LOST_OUT_OF_TIME_MESSAGE</LocID>               <Text>Deine Zeit ist abgelaufen</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_LOST_OUT_OF_TIME</LocID>                       <Text>Lass die Zeit ablaufen</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_LOST_OUT_OF_TIME_MESSAGE</LocID>               <Text>Die Zeit ist abgelaufen</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_LOST_LOSE_HERO</LocID>                         <Text>Verliere einen Kommandanten</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_LOST_LOSE_SECONDARY_HERO</LocID>               <Text>Verliere einen weiteren Kommandanten</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_LOST_LOSE_HERO_MESSAGE</LocID>                 <Text>Der Kommandant, den du hättest beschützen sollen, ist nicht mehr unter uns!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_LOST_LOSE_HERO_MESSAGE</LocID>                 <Text>Der Kommandant, den du beschützen sollest, ist nicht mehr unter uns!</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>KEEP_COMMANDER_ALIVE</LocID>                                     <Text>Halte einen Kommandanten am Leben: {1}</Text></GameDBLocalizedString>
             
@@ -52,7 +52,7 @@
             
             <!-- ENUMS-->
             <GameDBLocalizedString>         <LocID>MapLayerRole_SURFACE</LocID>                                     <Text>Oberfläche</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MapLayerRole_SPACE</LocID>                                       <Text>Raum</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MapLayerRole_SPACE</LocID>                                       <Text>Orbit</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MapLayerRole_DUNGEON</LocID>                                     <Text>Dungeon</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>TimedGateVariant_PERMANENT</LocID>                               <Text>Permanent</Text></GameDBLocalizedString>
