@@ -18,9 +18,9 @@
 
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK</LocID>                        <Text>Todgeweiht</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION</LocID>            <Text><![CDATA[Verfolgt den feindlichen Kommandanten im Nebel des Krieges. Der betroffene Kommandant verliert <color=SOTS_COLOR_MOVEMENT>Bewegungspunkte</color>.]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL1</LocID>       <Text><![CDATA[ Reichweite von 4 Feldern, 4 Züge.]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL2</LocID>       <Text><![CDATA[ Reichweite von 4 Feldern, 4 Züge.]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL3</LocID>       <Text><![CDATA[ Reichweite von 4 Feldern, 4 Züge.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL1</LocID>       <Text><![CDATA[ Reichweite von 4 Feldern, 2 Züge.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL2</LocID>       <Text><![CDATA[ Reichweite von 5 Feldern, 3 Züge.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL3</LocID>       <Text><![CDATA[ Reichweite von 6 Feldern, 4 Züge.]]></Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_DEATH_MARK</LocID>                                   <Text><![CDATA[<color=SOTS_COLOR_RED>Todgeweiht aktiviert!</color>]]></Text>  </GameDBLocalizedString>
 

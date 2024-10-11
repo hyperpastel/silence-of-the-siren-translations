@@ -16,7 +16,7 @@
             <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_DRAGON</LocID>         <Text>Raughir</Text></GameDBLocalizedString>
 
             <!--Unit description-->
-            <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_BEHOLDER_DESCRIPTION</LocID>              <Text>Sobald sie durch den Primal-Explosionsstein gesegnet und vom Schwarm bevölkert wurden, beginnen die Askon, ihre Tumoren auszubilden. Der perfekte Wirt für einen jagenden Krieger, der es vorzieht, vom Pfad der Klauen und der Zähne abzuweichen.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_BEHOLDER_DESCRIPTION</LocID>              <Text>Sobald sie durch den Primal-Explosionsstein gesegnet und vom Schwarm bevölkert werden, beginnen die Askon, ihre Tumoren auszubilden. Der perfekte Wirt für einen jagenden Krieger, der es vorzieht, vom Pfad der Klauen und der Zähne abzuweichen.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_DRAGON_DESCRIPTION</LocID>                <Text>Die Zeit der Raughir ist beinahe vorüber. Die uralten genetischen Matrizen verfallen zusehends und der Großteil der Nachkommen kommt deformiert oder unzähmbar zur Welt. Jeder erfolgreiche Versuch überschattet jedoch Dutzende bisherige gescheiterte.</Text></GameDBLocalizedString>
             
             <!--Unit abilities-->

@@ -1,4 +1,4 @@
-﻿<Database>
+﻿<Database
     <GameDBStringTable ID="LOC_DE_EXPLORATION">
 
         <LanguageRef>LANG_DE</LanguageRef>
@@ -89,7 +89,7 @@
             <GameDBLocalizedString>         <LocID>EXPLORATION_DISMISS</LocID>                                   <Text>Entlassen!</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EXPLORATION_CHEST_RESOURCE_TEXT</LocID>                       <Text>Da liegt ein Haufen nützlicher Ressourcen einfach so herum.</Text></GameDBLocalizedString>            
-            <GameDBLocalizedString>         <LocID>EXPLORATION_CHEST_DATAPAD_TEXT</LocID>                        <Text><![CDATA[Der Kommandant erhält <b><color=SOTS_COLOR_XP>+500 EP</color></b>.\n\nAußerdem kannst du das <b><color=SOTS_COLOR_GOLD>Datenfragment</color></b> aufbewahren, um es später zu verwenden oder für 500 Aura-Münzen zu verkaufen. Bei Verwendung gewährt es sofort +250 Bonus-EP.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_CHEST_DATAPAD_TEXT</LocID>                        <Text><![CDATA[Der Kommandant erhält <b><color=SOTS_COLOR_XP>+500 EP</color></b>.\n\nAußerdem kannst du das <b><color=SOTS_COLOR_GOLD>Datenfragment</color></b> aufbewahren, um es später zu verwenden oder für 500 Aura-Münzen zu verkaufen. Bei sofortiger Verwendung gewährt es +250 Bonus-EP.]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_DATAPAD_CONSUME</LocID>                           <Text>Verwenden</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_DATAPAD_CONSUME_INFO_TEXT</LocID>                 <Text><![CDATA[<color=SOTS_COLOR_XP>+750 EP</color>]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_DATAPAD_SELL</LocID>                              <Text>Verkaufen</Text></GameDBLocalizedString>

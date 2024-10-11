@@ -27,7 +27,7 @@
 
             <GameDBLocalizedString>         <LocID>EQUIPMENT_KINETIC_GENERATOR</LocID>                      <Text>Kinetischer Generator</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EQUIPMENT_KINETIC_GENERATOR_DESCRIPTION</LocID>          <Text><![CDATA[Pro 7 verbrauchter <color=SOTS_COLOR_MOVEMENT>Bewegungspunkte</color> wird <color=SOTS_COLOR_ENERGY>1 Energiepunkt</color> generiert.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EQUIPMENT_KINETIC_GENERATOR_LORE</LocID>                 <Text>Rückgewinnung. Weil alle, die in Kinderarmut in der Kolonie „am Rande der Galaxie“ aufgewachsen sind, hassen nichts mehr als den Gedanken an vergeudete Energie. Eine Stunde auf einem Ergometer-Generator für ein Spiegelei. Erinnerungen an schöne Zeiten, pah.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_KINETIC_GENERATOR_LORE</LocID>                 <Text>Rückgewinnung. Denn alle, die in Kinderarmut in der Kolonie „am Rande der Galaxie“ aufgewachsen sind, hassen nichts mehr als den Gedanken an vergeudete Energie. Eine Stunde auf einem Ergometer-Generator für ein Spiegelei. Erinnerungen an schöne Zeiten, pah.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EQUIPMENT_NAVICOMP</LocID>                               <Text>Navicomp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EQUIPMENT_NAVICOMP_DESCRIPTION</LocID>                   <Text><![CDATA[Ergänzt pro Zug <color=SOTS_COLOR_MOVEMENT>3 Bewegungspunkte</color>]]></Text>  </GameDBLocalizedString>

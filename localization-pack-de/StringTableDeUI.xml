@@ -198,8 +198,8 @@
             
             <GameDBLocalizedString>         <LocID>LEVEL_SHORT</LocID>                                      <Text>ST.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>HERO_CARD_POSITIVE_EFFECTS</LocID>                       <Text>Positive Effekte/Stärkungen</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_CARD_NEGATIVE_EFFECTS</LocID>                       <Text>Negative Effekte/Schwächungen</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_CARD_POSITIVE_EFFECTS</LocID>                       <Text>Positive Effekte/Buffs</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_CARD_NEGATIVE_EFFECTS</LocID>                       <Text>Negative Effekte/Debuffs</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EFFECT_COMBAT_END_LOC</LocID>                            <Text>Bis zum Ende der nächsten Schlacht</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CONSUMABLE_USAGE</LocID>                                 <Text><![CDATA[<color=SOTS_COLOR_GOLD>Verbrauchsgegenstand benutzt</color>: ]]></Text>  </GameDBLocalizedString>

@@ -61,8 +61,8 @@
             <!--Unit special abilities-->
             <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG_PASSIVE_INFO_DESCRIPTION</LocID> <Text>Erlangt einen Distanzangriff.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>Verursacht eine Blutung.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_BLINDPILER_SPECIAL</LocID>             <Text>Verwandelt sich in eine unkontrollierbare Bestie, die den nächstgelegenen Feind zweimal attackiert.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>Verursacht Blutung.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_BLINDPILER_SPECIAL</LocID>             <Text>Wird zu einer unkontrollierbaren Bestie, die den nächstgelegenen Feind zweimal attackiert.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>Kann bis zu 3 nebeneinanderstehende Feinde angreifen.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_UNIT_HAMMER_SPECIAL</LocID>                 <Text>Eine seismische Welle, die drei feindliche Reihen trifft.</Text>  </GameDBLocalizedString>

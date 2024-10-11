@@ -14,8 +14,8 @@
             <GameDBLocalizedString>         <LocID>ABILITY_COST_BASE_VALUE</LocID>                                  <Text>des Grundwerts.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>ABILITY_CATEGORY_OFFENSIVE</LocID>                               <Text>Offensiv</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_CATEGORY_BUFF</LocID>                                    <Text><![CDATA[<color=SOTS_COLOR_GREEN>Stärkung</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_CATEGORY_DEBUFF</LocID>                                  <Text><![CDATA[<color=SOTS_COLOR_RED>Schwächung</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_CATEGORY_BUFF</LocID>                                    <Text><![CDATA[<color=SOTS_COLOR_GREEN>Buff</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_CATEGORY_DEBUFF</LocID>                                  <Text><![CDATA[<color=SOTS_COLOR_RED>Debuff</color>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_CATEGORY_UTILITY</LocID>                                 <Text>Unterstützung</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_CATEGORY_HEALING</LocID>                                 <Text>Heilung</Text>  </GameDBLocalizedString>
 

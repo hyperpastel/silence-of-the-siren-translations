@@ -131,15 +131,15 @@
             <!-- Status effects -->
             <!-- TODO percentage of damage: should these mention "per turn" ? -->
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_POISON_DAMAGE</LocID>                     <Text>Vergiftet</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_POISON_DAMAGE_DESCRIPTION</LocID>         <Text>Die Einheit verliert 2% Gesundheit und ihr SCHADEN wird um 20% reduziert.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_POISON_DAMAGE_DESCRIPTION</LocID>         <Text>Die Einheit verliert 2% ihrer Gesundheit und ihr SCHADEN wird um 20% reduziert.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURNING_DAMAGE</LocID>                    <Text>Brennt</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURNING_DAMAGE_DESCRIPTION</LocID>        <Text>Die Einheit verliert 4% Gesundheit und hat 30% Chance, ihren Zug zu überspringen.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURNING_DAMAGE_DESCRIPTION</LocID>        <Text>Die Einheit verliert 4% ihrer Gesundheit und hat 30% Chance, ihren Zug zu überspringen.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SHOCK_DAMAGE</LocID>                      <Text>Geschockt</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SHOCK_DAMAGE_DESCRIPTION</LocID>          <Text>Die Einheit verliert 5% Gesundheit und ihre INITIATIVE wird um 30% reduziert.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BLEEDING_DAMAGE</LocID>                   <Text>Blutet</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BLEEDING_DAMAGE_DESCRIPTION</LocID>       <Text>Die Einheit verliert 3% Gesundheit.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SHOCK_DAMAGE_DESCRIPTION</LocID>          <Text>Die Einheit verliert 5% ihrer Gesundheit und ihre INITIATIVE wird um 30% reduziert.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BLEEDING_DAMAGE</LocID>                   <Text>Blutung</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BLEEDING_DAMAGE_DESCRIPTION</LocID>       <Text>Die Einheit verliert 3% ihrer Gesundheit.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CORROSIVE_DAMAGE</LocID>                  <Text>Korrodiert</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CORROSIVE_DAMAGE_DESCRIPTION</LocID>      <Text>Die Einheit verliert 3% Gesundheit und ihre BEWEGUNG wird um 30% reduziert.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CORROSIVE_DAMAGE_DESCRIPTION</LocID>      <Text>Die Einheit verliert 3% ihrer Gesundheit und ihre BEWEGUNG wird um 30% reduziert.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_DAZE</LocID>                              <Text>Betäubt</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_DAZE_DESCRIPTION</LocID>                  <Text>Die Einheit kann nicht kontern.</Text></GameDBLocalizedString>
