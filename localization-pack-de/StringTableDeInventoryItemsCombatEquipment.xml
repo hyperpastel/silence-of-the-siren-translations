@@ -54,7 +54,7 @@
             <GameDBLocalizedString>         <LocID>EQUIPMENT_CROSS_OF_VALOR_LORE</LocID>                    <Text>Manche sagen, der überirdische Wille der Göttin stärke den Träger und seine Armee. Andere behaupten, dass Hoffnung und Tapferkeit rein künstlich wären und deine Gehirnströme irgendwie von außen beeinflusst werden. Wir wissen lediglich, dass es kein Maß gibt, mit dem man seinen Einfluss bemessen könnte – aber dass sehr wohl einer besteht.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS</LocID>                         <Text>Belagerungswerkzeuge</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS_DESCRIPTION</LocID>             <Text>Erhöht den Schaden an Konstruktionen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS_DESCRIPTION</LocID>             <Text>Erhöht den Schaden an Gebäude</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS_LORE</LocID>                    <Text>Gewaltige Mauern, robuste Tore und feige Feinde, die dich aus Schießscharten beschießen, anstatt sich dir Mann gegen Mann zu stellen. Alles in allem ist eine Belagerung kein Honiglecken. Mit einem vernünftigen Rammbock kannst du dir den unangenehmen Teil jedoch ersparen und in kürzester Zeit in den Nahkampf übergehen.</Text>  </GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>

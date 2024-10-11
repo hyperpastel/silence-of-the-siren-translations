@@ -28,7 +28,7 @@
             <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG</LocID>                         <Text>Massenbefreier</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON</LocID>                 <Text>Schockwellenkanone</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON_DESCRIPTION</LocID>     <Text><![CDATA[Feuert einmal pro Runde mächtige Schockwellen ab, die Schaden verursachen und Einheiten aus dem Epizentrum verdrängen. Äußerst effektiv gegen Konstruktionen.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON_DESCRIPTION</LocID>     <Text><![CDATA[Feuert einmal pro Runde mächtige Schockwellen ab, die Schaden verursachen und Einheiten aus dem Epizentrum verdrängen. Äußerst effektiv gegen Gebäude.]]></Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>ABILITY_UNIT_TORPEDO</LocID>                        <Text>Torpedo</Text></GameDBLocalizedString>
 

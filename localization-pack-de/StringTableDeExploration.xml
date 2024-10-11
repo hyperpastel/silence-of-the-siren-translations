@@ -39,18 +39,18 @@
             <GameDBLocalizedString>         <LocID>DIALOG_NEUTRAL_MONSTERS_FLEE</LocID>                          <Text>Neutrale Einheiten fangen an, zu fliehen!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE</LocID>                                 <Text></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_CONSTRUCTION_UPGRADE</LocID>                    <Text></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_CONSTRUCTION_UPGRADE_TEXT</LocID>               <Text>Diese Konstruktion befindet sich derzeit im Bau. Bei Bedarf kannst du sie wieder zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_CONSTRUCTION_UPGRADE_TEXT</LocID>               <Text>Diese Gebäude befindet sich derzeit im Bau. Bei Bedarf kannst du sie wieder zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>            
             <GameDBLocalizedString>         <LocID>DIALOG_CONSTRUCTION_ZONE</LocID>                              <Text>Baubereich</Text>  </GameDBLocalizedString> <!-- Note: needs to match the building zone map object -->
-            <GameDBLocalizedString>         <LocID>DIALOG_CONSTRUCTION_ZONE_TEXT</LocID>                         <Text>Ein Gebiet, das für den schnellen Bau verschiedener Konstruktionen vorbereitet wurde. Kommandanten können hier zum halben Preis bauen.</Text>  </GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>DIALOG_CONSTRUCTION_ZONE_TEXT</LocID>                         <Text>Ein Gebiet, das für den schnellen Bau verschiedener Gebäude vorbereitet wurde. Kommandanten können hier zum halben Preis bauen.</Text>  </GameDBLocalizedString>            
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE</LocID>                            <Text></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE_TEXT</LocID>                       <Text>Diese Abbausonde hat einige Ressourcen eingesammelt. Durch das Einsammeln dieser Ressourcen wird die Sonde außer Betrieb gesetzt.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE_EMPTY</LocID>                      <Text></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE_EMPTY_TEXT</LocID>                 <Text>Diese Abbausonde hat noch keine Ressourcen gesammelt.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE</LocID>                         <Text></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_TEXT</LocID>                    <Text>Dies ist eine temporäre, von einem Spieler errichtete Konstruktion, die dir gehört. Du kannst sie zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_TEXT</LocID>                    <Text>Dies ist eine temporäre, von einem Spieler errichtete Gebäude, die dir gehört. Du kannst sie zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY</LocID>                <Text></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY_TEXT</LocID>           <Text>Dies ist eine temporäre, von einem Spieler errichtete Konstruktion, die dir gehört. Du kannst sie zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_WITH_ARMY</LocID>                       <Text>Aufwertbare Konstruktion</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY_TEXT</LocID>           <Text>Dies ist eine temporäre, von einem Spieler errichtete Gebäude, die dir gehört. Du kannst sie zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_WITH_ARMY</LocID>                       <Text>Aufwertbare Gebäude</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_LEARN_ABILITY</LocID>                                  <Text>Wissen wurde bereits heruntergeladen!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_LEARN_ABILITY_TEXT</LocID>                             <Text><![CDATA[Wähle eine Fähigkeit des <color=SOTS_COLOR_GOLD>{1}-Skills</color>, die du erlernen möchtest!]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_LEARN_ABILITY_TEXT_DETAILS</LocID>                     <Text><![CDATA[Du kannst weitere Fähigkeiten des <color=SOTS_COLOR_GOLD>{1}-Skills</color> erlernen, indem du eine Basis mit einer <color=SOTS_COLOR_GOLD>Akademie</color> aufsuchst.\nJede <color=SOTS_COLOR_GOLD>Akademie</color> bringt dem Kommandanten automatisch alle <color=SOTS_COLOR_GOLD>{1}</color> Fähigkeiten in ihrer Datenbank bis Stufe {2} bei.]]></Text></GameDBLocalizedString>
@@ -188,7 +188,7 @@
             <GameDBLocalizedString>         <LocID>EXPLORATION_ACADEMY_LEARN_ABILITY_TEXT</LocID>                <Text>Welche Fähigkeit möchtest du lernen?</Text>  </GameDBLocalizedString>
             
             <!--Map objects dialogs-->
-            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_TEXT</LocID>                            <Text>Wir kontrollieren diese Konstruktion jetzt. Es stehen Aufwertungen zur Verfügung!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_TEXT</LocID>                            <Text>Wir kontrollieren diese Gebäude jetzt. Es stehen Aufwertungen zur Verfügung!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_WITH_ARMY_TEXT</LocID>                  <Text>Vergiss nicht, dir die verfügbaren Aufwertungen anzusehen!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_AVAILABLE_UPGRADES</LocID>                      <Text><![CDATA[<b>Verfügbare Aufwertungen:</b>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_BUILD</LocID>                           <Text>Aufwertung kaufen: </Text>  </GameDBLocalizedString>
@@ -251,9 +251,9 @@
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_MOVEMENT</LocID>                               <Text>Bewegung</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_FOG_OF_WAR</LocID>                             <Text>Nebel des Krieges</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_CASTING</LocID>                                <Text>Fähigkeiten verwenden</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_TAKING_OVER_BUILDING</LocID>                   <Text>Konstruktion(en) erobert</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_DISABLING_BUILDING</LocID>                     <Text>Konstruktion(en) ausgeschaltet</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_BUILDING_VISIT</LocID>                         <Text>Konstruktion(en) besucht</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_TAKING_OVER_BUILDING</LocID>                   <Text>Gebäude(en) erobert</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_DISABLING_BUILDING</LocID>                     <Text>Gebäude(en) ausgeschaltet</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_BUILDING_VISIT</LocID>                         <Text>Gebäude(en) besucht</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_USING_CONSUMABLE</LocID>                       <Text>Verbrauchsgegenstände verwenden</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_BUILDING_UPGRADE</LocID>                       <Text>Aufwertungen</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_ITEM_PICK_UP</LocID>                           <Text>Beutegegenstände</Text></GameDBLocalizedString>
@@ -325,11 +325,11 @@
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_LESS_UNITS</LocID>                                <Text>Pandemie!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_LESS_UNITS_DESCRIPTION</LocID>                    <Text>Weniger Einheiten zur Rekrutierung in allen Basen!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION</LocID>                          <Text>Stellares Maximum!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION_DESCRIPTION</LocID>              <Text>Alle Basen und Konstruktionen produzieren mehr Ressourcen!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION_DESCRIPTION</LocID>              <Text>Alle Basen und Gebäude produzieren mehr Ressourcen!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION</LocID>                        <Text>Stellares Minimum!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION_DESCRIPTION</LocID>            <Text>Alle Basen und Konstruktionen produzieren weniger Ressourcen!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION_DESCRIPTION</LocID>            <Text>Alle Basen und Gebäude produzieren weniger Ressourcen!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_BAD_VISIBILITY</LocID>                            <Text>Atmosphärische Störung!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_BAD_VISIBILITY_DESCRIPTION</LocID>                <Text>Alle Kommandanten und Konstruktionen verfügen über reduzierte Sichtweite!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_BAD_VISIBILITY_DESCRIPTION</LocID>                <Text>Alle Kommandanten und Gebäude verfügen über reduzierte Sichtweite!</Text></GameDBLocalizedString>
 
         </LocalizedStrings>
     </GameDBStringTable>
