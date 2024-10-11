@@ -167,7 +167,7 @@
             <GameDBLocalizedString>         <LocID>MAPOBJ_HERO_WASH_DESCRIPTION</LocID>                               <Text>Entfernt alle Debuffs von vorbeikommenden Kommandanten. Kann einmal pro Zyklus verwendet werden.</Text>  </GameDBLocalizedString>
                                                                                                                      
             <GameDBLocalizedString>         <LocID>MAPOBJ_UNDER_CONSTRUCTION</LocID>                                  <Text>Im Bau</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_UNDER_CONSTRUCTION_DESCRIPTION</LocID>                      <Text>Diese Gebäude befindet sich derzeit im Bau.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_UNDER_CONSTRUCTION_DESCRIPTION</LocID>                      <Text>Dieses Gebäude befindet sich derzeit im Bau.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAPOBJ_BUILDING_ZONE</LocID>                                       <Text>Baubereich</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAPOBJ_BUILDING_ZONE_DESCRIPTION</LocID>                           <Text>Wähle eine Gebäude:</Text>  </GameDBLocalizedString>
 

@@ -47,9 +47,9 @@
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE_EMPTY</LocID>                      <Text></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE_EMPTY_TEXT</LocID>                 <Text>Diese Abbausonde hat noch keine Ressourcen gesammelt.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE</LocID>                         <Text></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_TEXT</LocID>                    <Text>Dies ist eine temporäre, von einem Spieler errichtete Gebäude, die dir gehört. Du kannst sie zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_TEXT</LocID>                    <Text>Dies ist ein temporäres, von einem Spieler errichtetes Gebäude, das dir gehört. Du kannst es zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY</LocID>                <Text></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY_TEXT</LocID>           <Text>Dies ist eine temporäre, von einem Spieler errichtete Gebäude, die dir gehört. Du kannst sie zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY_TEXT</LocID>           <Text>Dies ist ein temporäres, von einem Spieler errichtetes Gebäude, das dir gehört. Du kannst es zerlegen und einige Ressourcen zurückgewinnen.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_WITH_ARMY</LocID>                       <Text>Aufwertbare Gebäude</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_LEARN_ABILITY</LocID>                                  <Text>Wissen wurde bereits heruntergeladen!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_LEARN_ABILITY_TEXT</LocID>                             <Text><![CDATA[Wähle eine Fähigkeit des <color=SOTS_COLOR_GOLD>{1}-Skills</color>, die du erlernen möchtest!]]></Text></GameDBLocalizedString>
@@ -251,9 +251,9 @@
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_MOVEMENT</LocID>                               <Text>Bewegung</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_FOG_OF_WAR</LocID>                             <Text>Nebel des Krieges</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_CASTING</LocID>                                <Text>Fähigkeiten verwenden</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_TAKING_OVER_BUILDING</LocID>                   <Text>Gebäude(en) erobert</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_DISABLING_BUILDING</LocID>                     <Text>Gebäude(en) ausgeschaltet</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_BUILDING_VISIT</LocID>                         <Text>Gebäude(en) besucht</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_TAKING_OVER_BUILDING</LocID>                   <Text>Gebäude erobert</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_DISABLING_BUILDING</LocID>                     <Text>Gebäude ausgeschaltet</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_BUILDING_VISIT</LocID>                         <Text>Gebäude besucht</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_USING_CONSUMABLE</LocID>                       <Text>Verbrauchsgegenstände verwenden</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_BUILDING_UPGRADE</LocID>                       <Text>Aufwertungen</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_ITEM_PICK_UP</LocID>                           <Text>Beutegegenstände</Text></GameDBLocalizedString>

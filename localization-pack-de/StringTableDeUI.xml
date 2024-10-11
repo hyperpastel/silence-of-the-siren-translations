@@ -120,7 +120,7 @@
             <GameDBLocalizedString>         <LocID>KEYBOARD_CLOSE_PANELS</LocID>                            <Text>Aktives Fenster schließen, Menü öffnen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_MOVE_CAMERA</LocID>                             <Text>Kamera bewegen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_HIGHLIGHT_INTERACTIVE_BUILDINGS</LocID>         <Text>Interaktive Objekte und Gebäude markieren</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>KEYBOARD_REOPEN_BUILDING_DIALOG</LocID>                  <Text>Dialog kürzlich besuchter Gebäude erneut öffnen</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>KEYBOARD_REOPEN_BUILDING_DIALOG</LocID>                  <Text>Dialog des kürzlich besuchten Gebäudes erneut öffnen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_NEXT_HERO</LocID>                               <Text>Zum nächsten Kommandanten wechseln</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_CONFIRM_DIALOG</LocID>                          <Text>Standard-Option im aktiven Dialog bestätigen</Text>  </GameDBLocalizedString>
             
